@@ -99,7 +99,7 @@ class _StoryPageState extends State<StoryPage> {
                       //+TODO: Step 14 - Use the storyBrain to get the text for choice 2.
                       storyBrain.getChoise2(),
                       style: TextStyle(
-                        fontSize: 25.05,
+                        fontSize: 252.05,
                       ),
                     ),
                   ),
